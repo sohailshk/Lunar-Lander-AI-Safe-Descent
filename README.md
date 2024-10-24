@@ -55,6 +55,9 @@ The reward structure includes:
 3. **ε-greedy Exploration**: Balanced exploration-exploitation strategy
 4. **Custom Video Generator For Each Landing**: After training U can run Below Cells To get A Video Generated for Your Custom Lunar Lander Video Where Each Video will have Different Landing Position.
 
+![Demo GIF](https://github.com/sohailshk/Lunar-Lander-AI-Safe-Descent/blob/a6c63fd07abff321aef3d9f8cdba22ec36a31aa7/Lunar_Lander_Files/download-ezgif.com-video-to-gif-converter.gif)
+
+
    
 
 ## Training Parameters
