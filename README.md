@@ -98,6 +98,5 @@ pip install numpy tensorflow gym==0.24.0 pillow pyvirtualdisplay
 - Training time can vary based on hardware capabilities
 - The implementation includes visualization capabilities for monitoring training progress
 
-## License
-
-[Include your license information here]
+## Contact
+-sohailsaif504@gmail.com
